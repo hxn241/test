@@ -1,0 +1,21 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2021-05-03 19:44 CEST
+Nmap scan report for www.coches.net (13.32.128.86)
+Host is up (0.012s latency).
+Other addresses for www.coches.net (not scanned): 13.32.128.10 13.32.128.96 13.32.128.90
+rDNS record for 13.32.128.86: server-13-32-128-86.mad51.r.cloudfront.net
+
+PORT     STATE    SERVICE
+8443/tcp filtered https-alt
+
+Nmap done: 1 IP address (1 host up) scanned in 0.34 seconds
+Starting Nmap 7.60 ( https://nmap.org ) at 2021-05-03 19:44 CEST
+Nmap scan report for www.coches.net (13.32.128.86)
+Host is up (0.013s latency).
+Other addresses for www.coches.net (not scanned): 13.32.128.10 13.32.128.96 13.32.128.90
+rDNS record for 13.32.128.86: server-13-32-128-86.mad51.r.cloudfront.net
+
+PORT     STATE    SERVICE
+8443/tcp filtered https-alt
+
+Nmap done: 1 IP address (1 host up) scanned in 0.28 seconds
