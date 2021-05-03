@@ -1,7 +1,8 @@
 # Ip scanning test python script
 
 - Script de python que analiza y escanea un fichero de ip's dado en un txt llamado fichero.txt con una ip por línea.
-- El script generará archivos txt del contenido devuelto en cada escaneo y devolverá una base de datos "ssldb.db" con la tabla "ips" y las columnas siguientes:   ### dbname:
+- El script generará archivos txt del contenido devuelto en cada escaneo y devolverá una base de datos "ssldb.db" con la tabla "ips" y el siguiente formato:
+### dbname:
 - ssldb
 ### dbtable: 
 - ips
