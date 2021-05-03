@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[490]:
+# In[1]:
 
 
 import subprocess
@@ -94,69 +94,8 @@ def ip_scan(fichero): # creamos una función que desempeñará todo.
     return df
 
 
-# In[491]:
+# In[2]:
 
 
 df = ip_scan('fichero.txt')
-
-
-# In[492]:
-
-
-df.dtypes
-
-
-# In[ ]:
-
-
-
-
-
-# In[409]:
-
-
-#from sqlalchemy import create_engine
-
-
-# In[488]:
-
-
-#engine = create_engine('sqlite:///ssldb.db', echo=True)
-#sqlite_connection = engine.connect()
-
-
-# In[486]:
-
-
-#pip install sqlalchemy==1.3.15
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[403]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
