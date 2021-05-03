@@ -4,16 +4,16 @@
 - El script generará archivos txt del contenido devuelto en cada escaneo y devolverá una base de datos "ssldb.db" con la tabla "ips" y las columnas siguientes:   - dbname: ssldb
         - dbtable: ips
             - campos de la tabla: 
-                        - indice: autogenerado incremental (clave primaria)
-                        - ip: tipo string
-                        - puerto: tipo integer
-                        - SSLv2: tipo booleano (1/0)
-                        - SSLv3: tipo booleano (1/0)
-                        - TLSv1.0: tipo booleano (1/0)
-                        - TLSv1.1: tipo booleano (1/0)
-                        - TLSv1.2: tipo booleano (1/0)
-                        - TLSv1.3: tipo booleano (1/0)            
-                        - Fecha: Unixtime
+            - indice: autogenerado incremental (clave primaria)
+            - ip: tipo string
+            - puerto: tipo integer
+            - SSLv2: tipo booleano (1/0)
+            - SSLv3: tipo booleano (1/0)
+            - TLSv1.0: tipo booleano (1/0)
+            - TLSv1.1: tipo booleano (1/0)
+            - TLSv1.2: tipo booleano (1/0)
+            - TLSv1.3: tipo booleano (1/0)            
+            - Fecha: Unixtime
 
 
 ### Intrucciones:
