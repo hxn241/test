@@ -38,3 +38,5 @@ El fichero de ip's se tiene que llamar fichero.txt y contener una ip por línea 
 Ejecución:
 En terminal de comandos y en el mismo directorio del repositorio ejecutar el siguitente comando:
 - python test.py
+
+Salu2!!
