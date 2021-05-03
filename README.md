@@ -1,2 +1,2 @@
-# test
-Ip_scanning_test
+# Ip_scanning_test python script
+
