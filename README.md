@@ -20,18 +20,18 @@
 - Fecha: Unixtime
 
 
-### Intrucciones:
+### Instalación de librerías:
 Instalar o checkear las librerías:
 - pip install subprocess
 - pip install pandas
 - pip install Datetime
 - pip install sqlalchemy==1.3.15
 
-
+### Conda env .yml
 También puedes crear un Environment con conda mediante el comando siguiente y el fichero .yml.
 - conda env create -f environment_test.yml
 
-
+### How to run
 Todos los archivos serán creados en el mismo directorio del repositorio clonado.
 El fichero de ip's se tiene que llamar fichero.txt y contener una ip por línea para que funcione correctamente.
 
