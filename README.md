@@ -7,8 +7,10 @@
 Instalar o checkear las librerías:
 - pip install subprocess
 - pip install pandas
-- Datetime
-También puedes crear un Environment con conda mediante este comando y el fichero adjunto al repo.
-conda env create -f environment_test.yml
+- pip install Datetime
+- pip install sqlalchemy==1.3.15
+- 
+También puedes crear un Environment con conda mediante el comando siguiente y el fichero .yml.
+- conda env create -f environment_test.yml
 
  
