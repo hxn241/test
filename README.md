@@ -6,7 +6,10 @@
 
 ### Intrucciones:
 Instalar o checkear las librerías:
-- subprocess
-- pandas as pd
-- datetime
+- pip install subprocess
+- pip install pandas
+- Datetime
+También puedes crear un Environment con conda mediante este comando y el fichero adjunto al repo.
+conda env create -f environment_test.yml
+
  
