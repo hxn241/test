@@ -15,7 +15,9 @@ También puedes crear un Environment con conda mediante el comando siguiente y e
 - conda env create -f environment_test.yml
 
 
-Todos los archivos serán creados en el mismo directorio del repo clonado.
+Todos los archivos serán creados en el mismo directorio del repositorio clonado.
 El fichero de ip's se tiene que llamar fichero.txt y contener una ip por línea para que funcione correctamente.
 
- 
+Ejecución:
+En terminal de comandos y en el mismo directorio del repositorio ejecutar el siguitente comando:
+- python test.py
