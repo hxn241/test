@@ -5,4 +5,8 @@
 - ### index,ip,puerto,SSLv2,SSLv3,TLSv1.0,TLSv1.1,TLSv1.2,TLSv1.3,Fecha.
 
 ### Intrucciones:
+Instalar o checkear las librerías:
+- subprocess
+- pandas as pd
+- datetime
  
